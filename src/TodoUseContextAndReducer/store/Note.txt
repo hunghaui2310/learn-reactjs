@@ -1,0 +1,11 @@
+# Redux vs React-context
+
+1. Debugging-capabilities Redux dễ dàng triển khai debug hơn.
+2. Middleware: Redux sẵn sàng apply Middleware
+3. Addons and extensibility: Redux có sẵn các add-ons và dễ dàng mở rộng hơn.
+4. Cross-platform and cross-framework usage: Redux là cross-platform và cross-framework 
+-> Redux có thể dùng với tất cả các dự án sử dụng JS
+5. Depending on your app's setup, mutch better performance than working with just Context:
+Redux performance hơn React-context
+
+-> Chọn thời điểm thích hợp để dùng 2 trường hợp trên

@@ -1,0 +1,14 @@
+/* Khi sử dụng css module thì tên class là calmeCase */
+/* Css module không thể kế thừa */
+
+.heading {
+    color: red;
+}
+
+.btn {
+    padding: 10px;
+}
+
+.active {
+    background-color: red;
+}
